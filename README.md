@@ -13,13 +13,16 @@
 
 ---
 
-## 🧬 About Me
+## 🧬 Profile
 
-```diff
-+ Aspiring Cybersecurity Analyst
-# Python Developer (Automation & OSINT)
-! Linux User (Parrot OS | XFCE/KDE)
-> Focused on Reconnaissance & Digital Investigations
+Cybersecurity professional focused on **threat detection, reconnaissance, and offensive security techniques**.
+
+- OSINT investigations & digital footprint analysis  
+- Network traffic inspection & anomaly detection  
+- Linux system security & hardening  
+- Python-based security automation 
+
+---
 
 🔐 Cybersecurity Interests
 
