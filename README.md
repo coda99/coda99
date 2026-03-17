@@ -55,23 +55,33 @@ Focus:       OSINT | Recon | Enumeration | Automation
 [+] JSON / CSV export logging
 [+] Local intelligence database (SQLite)
 
-🐧 Portable Linux Security Environment
+🐧 Security Lab Environment
 
-> Bootable USB Linux
-> Encrypted /home
-> Preloaded security tools
-> Optimized performance
+[+] Portable Linux (USB-based)
+[+] Encrypted /home partition
+[+] Preconfigured security tools
+[+] Multi-DE setup (XFCE / KDE)
 
-🎯 Mission
+📊 GitHub Stats
 
-[+] Build powerful cybersecurity tools
-[+] Contribute to open-source
-[+] Master OSINT & Threat Intelligence
-[+] Become a Cybersecurity Professional
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+</p>
+
+
+🎯 Focus Areas
+
+[+] Security Operations Center (SOC)
+[+] Threat Intelligence & OSINT
+[+] Penetration Testing (Web & Recon)
+[+] Detection & Response
 
 ⚠️ Disclaimer
 
-- For Educational and Ethical Use Only
+- All tools are developed for ethical security research and authorized testing only.
+
+---
 <!---
 coda99/coda99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
