@@ -33,12 +33,12 @@ OSINT Investigations   ██████████
 Penetration Testing    ████████░░
 Automation (Python)    ██████████
 
-🧰 Tech Stack
+⚙️ Tools & Technologies
 
 Languages:   Python | Bash
 Systems:     Linux (Parrot OS)
-Tools:       Git | Wireshark | Nmap
-Concepts:    Networking | APIs | OSINT | Automation
+Tools:       Wireshark | Nmap | Git
+Focus:       OSINT | Recon | Enumeration | Automation
 
 📂 Featured Projects
 
