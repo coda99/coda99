@@ -32,21 +32,26 @@ Network Security       ██████████
 OSINT Investigations   ██████████
 Penetration Testing    ████████░░
 Automation (Python)    ██████████
+```
+---
 
-⚙️ Tools & Technologies
+## ⚙️ Tools & Technologies
 
+```bash
 Languages:   Python | Bash
 Systems:     Linux (Parrot OS)
 Tools:       Wireshark | Nmap | Git
 Focus:       OSINT | Recon | Enumeration | Automation
+```
+---
 
-🔎 Featured Project: OSINT Phone Intelligence Tool
+## 🔎 Featured Project: OSINT Phone Intelligence Tool
 
 <p align="center">
   <img src="https://github.com/coda99/Images/blob/main/IMG_3098.gif" />
 </p>
 
-
+```bash
 [+] Phone number parsing & validation
 [+] API integrations (Numverify)
 [+] Google dorking automation
@@ -54,33 +59,44 @@ Focus:       OSINT | Recon | Enumeration | Automation
 [+] WhatsApp & Facebook enumeration
 [+] JSON / CSV export logging
 [+] Local intelligence database (SQLite)
+```
+---
 
 🐧 Security Lab Environment
 
+```bash
 [+] Portable Linux (USB-based)
 [+] Encrypted /home partition
 [+] Preconfigured security tools
 [+] Multi-DE setup (XFCE / KDE)
+```
+---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coda99&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coda99&theme=tokyonight" />
 </p>
 
+---
 
-🎯 Focus Areas
+## 🎯 Focus Areas
 
+```bash
 [+] Security Operations Center (SOC)
 [+] Threat Intelligence & OSINT
 [+] Penetration Testing (Web & Recon)
 [+] Detection & Response
+```
 
-⚠️ Disclaimer
+---
 
+## ⚠️ Disclaimer
+
+```bash
 - All tools are developed for ethical security research and authorized testing only.
-
+```
 ---
 <!---
 coda99/coda99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
