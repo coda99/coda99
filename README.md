@@ -40,22 +40,20 @@ Systems:     Linux (Parrot OS)
 Tools:       Wireshark | Nmap | Git
 Focus:       OSINT | Recon | Enumeration | Automation
 
-📂 Featured Projects
-
-🔎 Reverse Phone Lookup Tool
-
-> Modular OSINT tool
-> API integrations (Numverify)
-> Google dorking automation
-> Social media discovery
-> CSV/JSON logging
-> SQLite directory
-
-## 🔎 Reverse Phone Lookup Tool
+🔎 Featured Project: OSINT Phone Intelligence Tool
 
 <p align="center">
   <img src="https://github.com/coda99/Images/blob/main/IMG_3098.gif" />
 </p>
+
+
+[+] Phone number parsing & validation
+[+] API integrations (Numverify)
+[+] Google dorking automation
+[+] Social media footprint discovery
+[+] WhatsApp & Facebook enumeration
+[+] JSON / CSV export logging
+[+] Local intelligence database (SQLite)
 
 🐧 Portable Linux Security Environment
 
