@@ -24,13 +24,14 @@ Cybersecurity professional focused on **threat detection, reconnaissance, and of
 
 ---
 
-🔐 Cybersecurity Interests
+## 🛡️ Core Skills
 
-OSINT              ██████████
-Network Security   █████████░
-Linux Hardening    ████████░░
-Automation         ██████████
-Digital Footprint  ████████░░
+```bash
+Threat Analysis        █████████░
+Network Security       ██████████
+OSINT Investigations   ██████████
+Penetration Testing    ████████░░
+Automation (Python)    ██████████
 
 🧰 Tech Stack
 
