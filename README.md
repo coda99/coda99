@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Learning-00ffcc?style=for-the-badge&logo=hackthebox&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-Developer-ffcc00?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/OSINT-Enthusiast-00e6ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-User-0f0f0f?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Analyst-00ffcc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Penetration-Testing-ff0033?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSINT-Specialist-00e6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-Security-0f0f0f?style=for-the-badge&logo=linux" />
 </p>
 
 ---
