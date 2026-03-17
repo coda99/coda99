@@ -1,7 +1,7 @@
 # 👨‍💻 Hi, I'm ```0xZ3u5```  
 
 <p align="center">
-  <img src="https://github.com/coda99/Images/blob/main/IMG_3097.png" />
+  <img src="https://github.com/coda99/Images/blob/main/IMG_3097.png" alt="cybersecurity banner" />
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Focus:       OSINT | Recon | Enumeration | Automation
 ## 🔎 Featured Project: OSINT Phone Intelligence Tool
 
 <p align="center">
-  <img src="https://github.com/coda99/Images/blob/main/IMG_3098.gif" />
+  <img src="https://github.com/coda99/Images/blob/main/IMG_3098.gif" alt="OSINT gif" />
 </p>
 
 ```bash
