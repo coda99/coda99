@@ -75,8 +75,8 @@ Focus:       OSINT | Recon | Enumeration | Automation
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coda99&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coda99&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xZ3u5&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xZ3u5&theme=tokyonight" />
 </p>
 
 ---
