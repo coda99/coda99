@@ -1,7 +1,7 @@
 # 👨‍💻 Hi, I'm ```0xZ3u5```  
 
 <p align="center">
-  <img src="https://github.com/coda99/Images/blob/main/IMG_3097.png" alt="cybersecurity banner" />
+  <img src="https://github.com/0xZ3u5/Images/blob/main/IMG_3119.jpeg" alt="cybersecurity banner" />
 </p>
 
 <p align="center">
