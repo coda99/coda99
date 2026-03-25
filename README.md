@@ -1,5 +1,3 @@
-# Hi, I'm ```0xZ3u5```  
-
 <p align="center">
   <img src="https://github.com/0xZ3u5/Images/blob/main/0E0C6910-75B7-420E-B0EB-95E7DE0C08B0.png" alt="cybersecurity banner" />
 </p>
