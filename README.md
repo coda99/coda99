@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm ```0xZ3u5```  
+# Hi, I'm ```0xZ3u5```  
 
 <p align="center">
   <img src="https://github.com/0xZ3u5/Images/blob/main/0E0C6910-75B7-420E-B0EB-95E7DE0C08B0.png" alt="cybersecurity banner" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 🧬 Profile
+## Profile
 
 Cybersecurity professional focused on **threat detection, reconnaissance, and offensive security techniques**.
 
@@ -24,7 +24,7 @@ Cybersecurity professional focused on **threat detection, reconnaissance, and of
 
 ---
 
-## 🛡️ Core Skills
+## Core Skills
 
 ```bash
 Threat Analysis        █████████░
@@ -35,7 +35,7 @@ Automation (Python)    ██████████
 ```
 ---
 
-## ⚙️ Tools & Technologies
+## Tools & Technologies
 
 ```bash
 Languages:   Python | Bash
@@ -45,7 +45,7 @@ Focus:       OSINT | Recon | Enumeration | Automation
 ```
 ---
 
-## 🔎 Featured Project: OSINT Phone Intelligence Tool
+## Featured Project: OSINT Phone Intelligence Tool
 
 <p align="center">
   <img src="https://github.com/coda99/Images/blob/main/IMG_3098.gif" alt="OSINT gif" />
@@ -62,7 +62,7 @@ Focus:       OSINT | Recon | Enumeration | Automation
 ```
 ---
 
-🐧 Security Lab Environment
+## Security Lab Environment
 
 ```bash
 [+] Portable Linux (USB-based)
@@ -72,7 +72,7 @@ Focus:       OSINT | Recon | Enumeration | Automation
 ```
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=0xZ3u5&show_icons=true&theme=tokyonight" />
@@ -81,7 +81,7 @@ Focus:       OSINT | Recon | Enumeration | Automation
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 ```bash
 [+] Security Operations Center (SOC)
@@ -92,7 +92,7 @@ Focus:       OSINT | Recon | Enumeration | Automation
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 ```bash
 - All tools are developed for ethical security research and authorized testing only.
